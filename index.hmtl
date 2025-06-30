@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rajat Kumar Sahu | Forecasting Data Scientist</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Rajat Kumar Sahu</h1>
+    <p>Forecasting Data Scientist | Python | ML | Streamlit | Tableau</p>
+    <nav>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I specialize in time series forecasting, predictive modeling, and automation. I've built custom ML tools using Python, Streamlit, and Gemini AI that help teams make fast, data-driven decisions. I'm passionate about solving future-focused problems with scalable data solutions.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>📦 CommerceScope</h3>
+      <p>Streamlit app for no-code EDA on e-commerce data. Upload CSV/Excel and get instant insights: missing values, correlation, stats, and more.</p>
+      <a href="https://github.com/yourusername/CommerceScope" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>🎓 Student Score Prediction</h3>
+      <p>ML web app predicting student scores based on sleep, study hours, and activity. Built with Scikit-learn + Streamlit.</p>
+      <a href="https://github.com/yourusername/Student-Score-Predictor" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>🚗 Vehicle Price Prediction</h3>
+      <p>Regression app predicting car prices from engine size, brand, and body type. Features Plotly visualizations.</p>
+      <a href="https://github.com/yourusername/Vehicle-Price-Predictor" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>💳 Credit Card Fraud Detection</h3>
+      <p>ML app using XGBoost and KNN to detect fraud in imbalanced datasets. Deployed via Streamlit with interactive inputs.</p>
+      <a href="https://github.com/yourusername/CreditCard-Fraud-Detection" target="_blank">View on GitHub</a>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <p>
+      Python, SQL, Machine Learning, Streamlit, Time Series Forecasting, Tableau, Power BI, Google Sheets API, Gemini AI, Excel, Looker Studio
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📍 Bangalore, India</p>
+    <p>
+      🌐 <a href="https://datascienceportfol.io/rajatks" target="_blank">Portfolio</a> |
+      🔗 <a href="https://www.linkedin.com/in/your-link" target="_blank">LinkedIn</a> |
+      💻 <a href="https://github.com/rajatks" target="_blank">GitHub</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rajat Kumar Sahu</p>
+  </footer>
+</body>
+</html>
